@@ -44,3 +44,14 @@ h6 {
   color: #f7f7f7;
   font-family:  cursive;
 }
+.btn{
+  background-color: #f84242;
+  color: #f7f7f7;
+  font-family: 'Indie Flower', cursive;
+  font-size: 1.5rem;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  margin: 10px;
+  border: none;
+}
