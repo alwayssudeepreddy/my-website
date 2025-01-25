@@ -13,3 +13,6 @@ else if(a<b){
 else{
     document.querySelector("h6").innerHTML="Draw"
 }
+document.querySelector("button").addEventListener("click",function(){
+    window.location.reload()
+})
